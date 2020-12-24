@@ -4,6 +4,12 @@
 
 ## Extract to servicenow directory
 
+```
+mkdir servicenow
+cd servicenow
+unzip ~/Downloads/mid....zip
+```
+
 ## Build the image
 
 ```
